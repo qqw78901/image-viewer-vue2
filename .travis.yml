@@ -3,7 +3,7 @@ language: node_js
 node_js:
   - "10"
 script:
-- npm install &&　npm run build
+- yarn install && yarn build
 deploy:
 - provider: npm
   email: "qqw78901"
