@@ -1,13 +1,12 @@
 # image-viewer-vue2
 
-[![Build Status](https://travis-ci.com/FEMessage/image-viewer-vue2.svg?branch=master)](https://travis-ci.com/FEMessage/image-viewer-vue2)
-[![NPM Download](https://img.shields.io/npm/dm/@femessage/image-viewer-vue2.svg)](https://www.npmjs.com/package/@femessage/image-viewer-vue2)
-[![NPM Version](https://img.shields.io/npm/v/@femessage/image-viewer-vue2.svg)](https://www.npmjs.com/package/@femessage/image-viewer-vue2)
-[![NPM License](https://img.shields.io/npm/l/@femessage/image-viewer-vue2.svg)](https://github.com/FEMessage/image-viewer-vue2/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FEMessage/image-viewer-vue2/pulls)
-[![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
+[![Build Status](https://travis-ci.org/qqw78901/image-viewer-vue2.svg?branch=master)](https://travis-ci.org/qqw78901/image-viewer-vue2)
+[![NPM Download](https://img.shields.io/npm/dm/image-viewer-vue2.svg)](https://www.npmjs.com/package/image-viewer-vue2)
+[![NPM Version](https://img.shields.io/npm/v/image-viewer-vue2.svg)](https://www.npmjs.com/package/image-viewer-vue2)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/qqw78901/image-viewer-vue2/pulls)
 
-类似新浪微博移动版的图片大图预览插件
+
+
 
 
 
@@ -23,6 +22,10 @@
 - [License](#license)
 
 ## Introduction
+
+类似新浪微博移动版的图片大图预览插件
+
+React版详见：[image-viewer-react](https://www.npmjs.com/package/image-viewer-react)
 
 [⬆ Back to Top](#table-of-contents)
 
