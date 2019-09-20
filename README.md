@@ -35,7 +35,7 @@ React版详见：[image-viewer-react](https://www.npmjs.com/package/image-viewer
 
 ## Demo
 
-* [doc and online demo](https://femessage.github.io/image-viewer-vue2/)
+* [doc and online demo](https://www.gdutzuo.top/image-viewer-vue2/#/Demo)
 
 [⬆ Back to Top](#table-of-contents)
 
