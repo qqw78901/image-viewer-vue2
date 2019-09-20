@@ -7,7 +7,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FEMessage/image-viewer-vue2/pulls)
 [![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
 
-项目简要说明 + 示例图
+类似新浪微博移动版的图片大图预览插件
+
+
+
 
 ## Table of Contents
 
