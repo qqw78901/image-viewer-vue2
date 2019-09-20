@@ -4,10 +4,12 @@ node_js:
   - "10"
 script:
 - yarn install && yarn build
+cache: yarn
 deploy:
 - provider: npm
   email: "qqw78901"
   api_key: "$npm_api_key"
+  skip_cleanup: true
   on:
     tags: true
 after_deploy: "echo 'done'"
